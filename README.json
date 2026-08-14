@@ -49,7 +49,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27256
+            "stars": 27260
           }
         },
         {
@@ -63,7 +63,7 @@
             "last_commit": "2025-08-20T01:27:47Z",
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
-            "stars": 1679
+            "stars": 1680
           }
         },
         {
@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:09:40Z",
+            "last_commit": "2026-08-13T23:10:16Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18115
+            "stars": 18122
           }
         },
         {
@@ -122,10 +122,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T20:23:44Z",
+            "last_commit": "2026-08-13T21:11:21Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8789
+            "stars": 8793
           }
         },
         {
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:50:50.342Z",
+    "last_updated": "2026-08-14T06:47:53.965Z",
     "original_repository": "chawins/llm-sp",
     "original_repository_sha": "e483c1314e3816cff7c491c69f2004d6066e4355",
     "enhanced_repository": "enhansome/enhansome-llm-sp",
