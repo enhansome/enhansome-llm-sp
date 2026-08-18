@@ -686,7 +686,7 @@ Prompt constructed with some of the user’s PIIs for probing if the model memor
 
 <details><summary>Do Membership Inference Attacks Work on Large Language Models? (2024) [<a href="https://arxiv.org/abs/2402.07841">Paper</a>] ⭐</summary>
 
-* [GitHub - iamgroot42/mimir: Python package for measuring memorization in LLMs.](https://github.com/iamgroot42/mimir) ⭐ 195 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2025-07-16 Library of MIAs on LLMs, including Min-k%, zlib, reference-based attack (Ref), neighborhood.
+* [GitHub - iamgroot42/mimir: Python package for measuring memorization in LLMs.](https://github.com/iamgroot42/mimir) ⭐ 196 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2025-07-16 Library of MIAs on LLMs, including Min-k%, zlib, reference-based attack (Ref), neighborhood.
 * Table 1 compares 5 attacks across 8 datasets. Reference-based attack is best in most cases. Min-k% is marginally better than Loss and zlib, but they are all very close. Results are very dependent on datasets.
 * Picking good reference model is tricky. The authors have tried multiple models which potentially make Ref stronger than the other attacks.
 * Temporal shift in member vs non-member test samples contributes to an overestimated MIA success rate. The authors measure this distribution shift with [n-gram overlap](https://yunjinhan.github.io/2017/04/n-gram-overlap).
@@ -2310,8 +2310,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Resource Compilation
 
-* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,269 | 🐛 436 | 📅 2025-07-31: Huge compilation of LLM papers and software.
-* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,683 | 🐛 184 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
+* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,268 | 🐛 435 | 📅 2025-07-31: Huge compilation of LLM papers and software.
+* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,683 | 🐛 185 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
 * <https://github.com/ethz-spylab/rlhf_trojan_competition> ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2024-06-13: Competition track at SaTML 2024.
 * <https://github.com/briland/LLM-security-and-privacy> ⭐ 54 | 🐛 1 | 🌐 TeX | 📅 2024-10-15
 * <https://llmsecurity.net/>: LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
@@ -2320,8 +2320,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Open-Source Projects
 
-* <https://github.com/NVIDIA/NeMo> ⭐ 18,146 | 🐛 237 | 🌐 Python | 📅 2026-08-16: NeMo: a toolkit for conversational AI.
-* <https://github.com/leondz/garak> ⭐ 8,831 | 🐛 389 | 🌐 Python | 📅 2026-08-14: LLM vulnerability scanner.
+* <https://github.com/NVIDIA/NeMo> ⭐ 18,158 | 🐛 254 | 🌐 Python | 📅 2026-08-18: NeMo: a toolkit for conversational AI.
+* <https://github.com/leondz/garak> ⭐ 8,840 | 🐛 390 | 🌐 Python | 📅 2026-08-17: LLM vulnerability scanner.
 * <https://github.com/fiddler-labs/fiddler-auditor> ⭐ 195 | 🐛 15 | 🌐 Python | 📅 2024-03-11: Fiddler Auditor is a tool to evaluate language models.
 * <https://github.com/LostOxygen/llm-confidentiality> ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2026-04-20: Framework for evaluating LLM confidentiality
 
@@ -2368,4 +2368,4 @@ These three topics are closely related so sometimes it is hard to clearly catego
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
