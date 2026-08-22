@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:32:12Z",
+                "last_commit": "2026-08-21T22:31:10Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18191
+                "stars": 18204
               }
             },
             {
@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 639097338,
                 "language": "Python",
-                "last_commit": "2026-08-19T19:50:37Z",
+                "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8879
+                "stars": 8890
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2024-03-11T02:49:45Z",
                 "owner": "fiddler-labs",
                 "repo": "fiddler-auditor",
-                "stars": 195
+                "stars": 196
               }
             },
             {
@@ -142,7 +142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:51:37.872Z",
+    "last_updated": "2026-08-22T05:47:08.356Z",
     "original_repository": "chawins/llm-sp",
     "original_repository_id": 719239242,
     "original_repository_sha": "e483c1314e3816cff7c491c69f2004d6066e4355",
