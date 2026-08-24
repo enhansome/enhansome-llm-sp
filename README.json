@@ -17,7 +17,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27276
+                "stars": 27279
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:24:34Z",
+                "last_commit": "2026-08-24T14:19:26Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18286
+                "stars": 18299
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8987
+                "stars": 9006
               }
             },
             {
@@ -142,7 +142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:57:15.245Z",
+    "last_updated": "2026-08-24T14:20:11.900Z",
     "original_repository": "chawins/llm-sp",
     "original_repository_id": 719239242,
     "original_repository_sha": "e483c1314e3816cff7c491c69f2004d6066e4355",
