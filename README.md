@@ -2310,7 +2310,7 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Resource Compilation
 
-* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,282 | 🐛 445 | 📅 2025-07-31: Huge compilation of LLM papers and software.
+* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,283 | 🐛 445 | 📅 2025-07-31: Huge compilation of LLM papers and software.
 * <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,685 | 🐛 198 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
 * <https://github.com/ethz-spylab/rlhf_trojan_competition> ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2024-06-13: Competition track at SaTML 2024.
 * <https://github.com/briland/LLM-security-and-privacy> ⭐ 54 | 🐛 1 | 🌐 TeX | 📅 2024-10-15
@@ -2320,8 +2320,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Open-Source Projects
 
-* <https://github.com/NVIDIA/NeMo> ⭐ 18,316 | 🐛 274 | 🌐 Python | 📅 2026-08-24: NeMo: a toolkit for conversational AI.
-* <https://github.com/leondz/garak> ⭐ 9,023 | 🐛 407 | 🌐 Python | 📅 2026-08-21: LLM vulnerability scanner.
+* <https://github.com/NVIDIA/NeMo> ⭐ 18,318 | 🐛 275 | 🌐 Python | 📅 2026-08-24: NeMo: a toolkit for conversational AI.
+* <https://github.com/leondz/garak> ⭐ 9,024 | 🐛 407 | 🌐 Python | 📅 2026-08-21: LLM vulnerability scanner.
 * <https://github.com/fiddler-labs/fiddler-auditor> ⭐ 196 | 🐛 15 | 🌐 Python | 📅 2024-03-11: Fiddler Auditor is a tool to evaluate language models.
 * <https://github.com/LostOxygen/llm-confidentiality> ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2026-04-20: Framework for evaluating LLM confidentiality
 
