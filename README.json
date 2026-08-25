@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Hannibal046/Awesome-LLM/",
+              "title": "Hannibal046/Awesome-LLM",
               "description": "Huge compilation of LLM papers and software.",
               "children": [],
               "repo_info": {
@@ -17,12 +17,12 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27279
+                "stars": 27282
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/corca-ai/awesome-llm-security",
+              "title": "corca-ai/awesome-llm-security",
               "description": "A curation of awesome tools, documents and projects about LLM Security.",
               "children": [],
               "repo_info": {
@@ -37,7 +37,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ethz-spylab/rlhf_trojan_competition",
+              "title": "ethz-spylab/rlhf_trojan_competition",
               "description": "Competition track at SaTML 2024.",
               "children": [],
               "repo_info": {
@@ -52,7 +52,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/briland/LLM-security-and-privacy",
+              "title": "briland/LLM-security-and-privacy",
               "description": null,
               "children": [],
               "repo_info": {
@@ -74,22 +74,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/NVIDIA/NeMo",
+              "title": "NVIDIA-NeMo/Speech",
               "description": "NeMo: a toolkit for conversational AI.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:19:26Z",
+                "last_commit": "2026-08-24T21:35:02Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18299
+                "stars": 18316
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/leondz/garak",
+              "title": "NVIDIA/garak",
               "description": "LLM vulnerability scanner.",
               "children": [],
               "repo_info": {
@@ -99,12 +99,12 @@
                 "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9006
+                "stars": 9023
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/fiddler-labs/fiddler-auditor",
+              "title": "fiddler-labs/fiddler-auditor",
               "description": "Fiddler Auditor is a tool to evaluate language models.",
               "children": [],
               "repo_info": {
@@ -119,7 +119,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/LostOxygen/llm-confidentiality",
+              "title": "LostOxygen/llm-confidentiality",
               "description": "Framework for evaluating LLM confidentiality",
               "children": [],
               "repo_info": {
@@ -142,7 +142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:11.900Z",
+    "last_updated": "2026-08-25T06:05:55.331Z",
     "original_repository": "chawins/llm-sp",
     "original_repository_id": 719239242,
     "original_repository_sha": "e483c1314e3816cff7c491c69f2004d6066e4355",
