@@ -17,8 +17,9 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27294
-              }
+                "stars": 27295
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2025-08-20T01:27:47Z",
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1686
-              }
+                "stars": 1687
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ethz-spylab",
                 "repo": "rlhf_trojan_competition",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "briland",
                 "repo": "LLM-security-and-privacy",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             }
           ],
           "description": null,
@@ -81,11 +85,12 @@
                 "archived": false,
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:46:00Z",
+                "last_commit": "2026-08-28T17:08:08Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18341
-              }
+                "stars": 18353
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             },
             {
               "node_type": "item",
@@ -99,8 +104,9 @@
                 "last_commit": "2026-08-25T22:37:37Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9042
-              }
+                "stars": 9060
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "fiddler-labs",
                 "repo": "fiddler-auditor",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "LostOxygen",
                 "repo": "llm-confidentiality",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:28:47.696Z"
             }
           ],
           "description": null,
@@ -142,7 +150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:34:06.021Z",
+    "last_updated": "2026-08-28T17:28:47.696Z",
     "original_repository_info": {
       "archived": false,
       "id": 719239242,

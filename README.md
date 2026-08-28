@@ -2310,8 +2310,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Resource Compilation
 
-* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,294 | 🐛 443 | 📅 2025-07-31: Huge compilation of LLM papers and software.
-* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,686 | 🐛 200 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
+* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,295 | 🐛 443 | 📅 2025-07-31: Huge compilation of LLM papers and software.
+* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,687 | 🐛 196 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
 * <https://github.com/ethz-spylab/rlhf_trojan_competition> ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2024-06-13: Competition track at SaTML 2024.
 * <https://github.com/briland/LLM-security-and-privacy> ⭐ 54 | 🐛 1 | 🌐 TeX | 📅 2024-10-15
 * <https://llmsecurity.net/>: LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
@@ -2320,8 +2320,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Open-Source Projects
 
-* <https://github.com/NVIDIA/NeMo> ⭐ 18,341 | 🐛 287 | 🌐 Python | 📅 2026-08-27: NeMo: a toolkit for conversational AI.
-* <https://github.com/leondz/garak> ⭐ 9,042 | 🐛 404 | 🌐 Python | 📅 2026-08-25: LLM vulnerability scanner.
+* <https://github.com/NVIDIA/NeMo> ⭐ 18,353 | 🐛 290 | 🌐 Python | 📅 2026-08-28: NeMo: a toolkit for conversational AI.
+* <https://github.com/leondz/garak> ⭐ 9,060 | 🐛 405 | 🌐 Python | 📅 2026-08-25: LLM vulnerability scanner.
 * <https://github.com/fiddler-labs/fiddler-auditor> ⭐ 196 | 🐛 15 | 🌐 Python | 📅 2024-03-11: Fiddler Auditor is a tool to evaluate language models.
 * <https://github.com/LostOxygen/llm-confidentiality> ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2026-04-20: Framework for evaluating LLM confidentiality
 
@@ -2368,4 +2368,4 @@ These three topics are closely related so sometimes it is hard to clearly catego
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
