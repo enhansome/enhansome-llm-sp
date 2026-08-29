@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome-LLM: a curated list of Large Language Model",
+                "homepage": null,
                 "id": 603049672,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
+                "open_issues": 443,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27295
+                "stars": 27297,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             },
@@ -28,12 +33,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curation of awesome tools, documents and projects about LLM Security.",
+                "homepage": null,
                 "id": 662394571,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
+                "open_issues": 196,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1687
+                "stars": 1687,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "llm",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finding trojans in aligned LLMs. Official repository for the competition hosted at SaTML 2024.",
+                "homepage": null,
                 "id": 694516733,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-13T12:51:08Z",
+                "open_issues": 1,
                 "owner": "ethz-spylab",
                 "repo": "rlhf_trojan_competition",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             },
@@ -60,12 +80,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM security and privacy",
+                "homepage": null,
                 "id": 685215608,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2024-10-15T18:57:21Z",
+                "open_issues": 1,
                 "owner": "briland",
                 "repo": "LLM-security-and-privacy",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-llm-security-and-privacy",
+                  "generative-ai",
+                  "llm",
+                  "llm-framework",
+                  "llm-privacy",
+                  "llm-security",
+                  "llm-threats",
+                  "llm-vulnerabilities",
+                  "privacy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             }
@@ -83,12 +121,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+                "homepage": "https://docs.nvidia.com/nemo/speech/nightly/index.html",
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-28T17:08:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:38:57Z",
+                "open_issues": 293,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18353
+                "stars": 18354,
+                "topics": [
+                  "asr",
+                  "deeplearning",
+                  "generative-ai",
+                  "machine-translation",
+                  "neural-networks",
+                  "speaker-diariazation",
+                  "speaker-recognition",
+                  "speech-synthesis",
+                  "speech-translation",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             },
@@ -99,12 +153,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the LLM vulnerability scanner",
+                "homepage": "https://discord.gg/uVch4puUCs",
                 "id": 639097338,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:37:37Z",
+                "open_issues": 408,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9060
+                "stars": 9066,
+                "topics": [
+                  "ai",
+                  "llm-evaluation",
+                  "llm-security",
+                  "security-scanners",
+                  "vulnerability-assessment"
+                ]
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             },
@@ -115,12 +180,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fiddler Auditor is a tool to evaluate language models.",
+                "homepage": null,
                 "id": 642585279,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-11T02:49:45Z",
+                "open_issues": 15,
                 "owner": "fiddler-labs",
                 "repo": "fiddler-auditor",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "ai-observability",
+                  "evaluation",
+                  "generative-ai",
+                  "langchain",
+                  "llms",
+                  "nlp",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             },
@@ -131,12 +209,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Whispers in the Machine: Confidentiality in Agentic Systems",
+                "homepage": null,
                 "id": 645786960,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-20T16:35:58Z",
+                "open_issues": 0,
                 "owner": "LostOxygen",
                 "repo": "llm-confidentiality",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "chatgpt",
+                  "confidentiality",
+                  "deep-learning",
+                  "framework",
+                  "gpt",
+                  "llm",
+                  "llm-security",
+                  "machine-learning",
+                  "openai",
+                  "prompt-engineering",
+                  "prompt-injection",
+                  "prompt-toolkit",
+                  "security",
+                  "systems-security",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
             }
@@ -150,15 +249,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:28:47.696Z",
+    "last_updated": "2026-08-29T04:39:22.766Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Papers and resources related to the security and privacy of LLMs 🤖",
+      "homepage": "https://chawins.github.io/llm-sp",
       "id": 719239242,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2025-06-08T21:07:21Z",
+      "open_issues": 3,
       "owner": "chawins",
       "repo": "llm-sp",
-      "stars": 582
+      "stars": 582,
+      "topics": [
+        "adversarial-machine-learning",
+        "awesome-list",
+        "llm",
+        "llm-privacy",
+        "llm-security",
+        "privacy",
+        "security"
+      ]
     },
     "original_repository_sha": "e483c1314e3816cff7c491c69f2004d6066e4355",
     "enhanced_repository": "enhansome/enhansome-llm-sp",
