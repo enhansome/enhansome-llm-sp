@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 462,
+                "open_issues": 465,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27411,
+                "stars": 27419,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -39,7 +39,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 226,
+                "open_issues": 229,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
                 "stars": 1702,
@@ -126,11 +126,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T10:34:12Z",
-                "open_issues": 297,
+                "last_commit": "2026-09-22T08:17:32Z",
+                "open_issues": 299,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18482,
+                "stars": 18488,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T21:54:58Z",
-                "open_issues": 451,
+                "open_issues": 453,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9321,
+                "stars": 9329,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:49:30.946Z",
+    "last_updated": "2026-09-22T10:04:49.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
