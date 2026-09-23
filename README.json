@@ -21,7 +21,7 @@
                 "open_issues": 465,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27419,
+                "stars": 27423,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -39,10 +39,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 229,
+                "open_issues": 231,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1702,
+                "stars": 1703,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -126,11 +126,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T08:17:32Z",
-                "open_issues": 299,
+                "last_commit": "2026-09-23T06:51:56Z",
+                "open_issues": 301,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18488,
+                "stars": 18490,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T21:54:58Z",
-                "open_issues": 453,
+                "open_issues": 459,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9329,
+                "stars": 9337,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:04:49.124Z",
+    "last_updated": "2026-09-23T10:04:58.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
