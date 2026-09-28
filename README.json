@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 465,
+                "open_issues": 464,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27425,
+                "stars": 27428,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -39,10 +39,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 237,
+                "open_issues": 236,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1704,
+                "stars": 1707,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -127,10 +127,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T17:49:17Z",
-                "open_issues": 308,
+                "open_issues": 315,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18510,
+                "stars": 18518,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T21:54:58Z",
-                "open_issues": 470,
+                "open_issues": 471,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9367,
+                "stars": 9372,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:36:28.007Z",
+    "last_updated": "2026-09-28T11:47:04.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
