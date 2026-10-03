@@ -6,9 +6,9 @@
 
 **When?** *Updated whenever my willpower reaches a certain threshold (aka pretty frequent).*
 
-**Where?** *[GitHub](https://github.com/chawins/llm-sp) ⭐ 583 | 🐛 4 | 🌐 Python | 📅 2025-06-08 and [Notion](https://chawins.notion.site/llm-sp). Notion is more up-to-date; I periodically transfer the updates to GitHub.*
+**Where?** *[GitHub](https://github.com/chawins/llm-sp) and [Notion](https://chawins.notion.site/llm-sp). Notion is more up-to-date; I periodically transfer the updates to GitHub.*
 
-**Who?** *[Me](https://chawins.github.io/) and you (see [Contribution](https://github.com/chawins/llm-sp?tab=readme-ov-file#contribution) ⭐ 583 | 🐛 4 | 🌐 Python | 📅 2025-06-08 below).*
+**Who?** *[Me](https://chawins.github.io/) and you (see [Contribution](https://github.com/chawins/llm-sp?tab=readme-ov-file#contribution) below).*
 
 ***
 
@@ -2310,8 +2310,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Resource Compilation
 
-* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,436 | 🐛 469 | 📅 2025-07-31: Huge compilation of LLM papers and software.
-* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,708 | 🐛 240 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
+* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,434 | 🐛 470 | 📅 2025-07-31: Huge compilation of LLM papers and software.
+* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,708 | 🐛 241 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
 * <https://github.com/ethz-spylab/rlhf_trojan_competition> ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2024-06-13: Competition track at SaTML 2024.
 * <https://github.com/briland/LLM-security-and-privacy> ⭐ 54 | 🐛 3 | 🌐 TeX | 📅 2024-10-15
 * <https://llmsecurity.net/>: LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
@@ -2320,8 +2320,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Open-Source Projects
 
-* <https://github.com/NVIDIA/NeMo> ⭐ 18,539 | 🐛 326 | 🌐 Python | 📅 2026-10-01: NeMo: a toolkit for conversational AI.
-* <https://github.com/leondz/garak> ⭐ 9,406 | 🐛 487 | 🌐 Python | 📅 2026-09-16: LLM vulnerability scanner.
+* <https://github.com/NVIDIA/NeMo> ⭐ 18,539 | 🐛 326 | 🌐 Python | 📅 2026-10-03: NeMo: a toolkit for conversational AI.
+* <https://github.com/leondz/garak> ⭐ 9,413 | 🐛 484 | 🌐 Python | 📅 2026-10-02: LLM vulnerability scanner.
 * <https://github.com/LostOxygen/llm-confidentiality> ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-04-20: Framework for evaluating LLM confidentiality
 * <https://github.com/fiddler-labs/fiddler-auditor>: Fiddler Auditor is a tool to evaluate language models.
 
@@ -2331,7 +2331,7 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Contribution
 
-The paper selection is biased towards my research interest. So any help to make this list more comprehensive (adding papers, improving descriptions, etc.) is certainly appreciated. Please feel free to open an issue or a PR on the [GitHub repo](https://github.com/chawins/llm-sp) ⭐ 583 | 🐛 4 | 🌐 Python | 📅 2025-06-08.
+The paper selection is biased towards my research interest. So any help to make this list more comprehensive (adding papers, improving descriptions, etc.) is certainly appreciated. Please feel free to open an issue or a PR on the [GitHub repo](https://github.com/chawins/llm-sp).
 
 ### Notion
 
@@ -2368,4 +2368,4 @@ These three topics are closely related so sometimes it is hard to clearly catego
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
