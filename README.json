@@ -21,7 +21,7 @@
                 "open_issues": 470,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27434,
+                "stars": 27435,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -127,7 +127,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T00:39:58Z",
-                "open_issues": 326,
+                "open_issues": 327,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
                 "stars": 18539,
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T17:55:55Z",
-                "open_issues": 484,
+                "open_issues": 487,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9413,
+                "stars": 9414,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:56:23.907Z",
+    "last_updated": "2026-10-03T10:27:52.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
