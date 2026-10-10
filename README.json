@@ -126,11 +126,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T11:49:47Z",
-                "open_issues": 341,
+                "last_commit": "2026-10-10T02:17:58Z",
+                "open_issues": 342,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18563,
+                "stars": 18567,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -158,11 +158,11 @@
                 "id": 639097338,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T16:44:41Z",
-                "open_issues": 478,
+                "last_commit": "2026-10-09T21:52:23Z",
+                "open_issues": 480,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9508,
+                "stars": 9516,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:57:45.468Z",
+    "last_updated": "2026-10-10T11:14:16.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",

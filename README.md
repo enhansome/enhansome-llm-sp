@@ -2320,8 +2320,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Open-Source Projects
 
-* <https://github.com/NVIDIA/NeMo> ⭐ 18,563 | 🐛 341 | 🌐 Python | 📅 2026-10-09: NeMo: a toolkit for conversational AI.
-* <https://github.com/leondz/garak> ⭐ 9,508 | 🐛 478 | 🌐 Python | 📅 2026-10-08: LLM vulnerability scanner.
+* <https://github.com/NVIDIA/NeMo> ⭐ 18,567 | 🐛 342 | 🌐 Python | 📅 2026-10-10: NeMo: a toolkit for conversational AI.
+* <https://github.com/leondz/garak> ⭐ 9,516 | 🐛 480 | 🌐 Python | 📅 2026-10-09: LLM vulnerability scanner.
 * <https://github.com/LostOxygen/llm-confidentiality> ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-04-20: Framework for evaluating LLM confidentiality
 * <https://github.com/fiddler-labs/fiddler-auditor>: Fiddler Auditor is a tool to evaluate language models.
 
@@ -2368,4 +2368,4 @@ These three topics are closely related so sometimes it is hard to clearly catego
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
