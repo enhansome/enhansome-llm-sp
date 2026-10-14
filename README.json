@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 473,
+                "open_issues": 474,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27448,
+                "stars": 27446,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -39,10 +39,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 250,
+                "open_issues": 252,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1711,
+                "stars": 1712,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -126,11 +126,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T12:34:43Z",
-                "open_issues": 344,
+                "last_commit": "2026-10-14T09:42:04Z",
+                "open_issues": 345,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18575,
+                "stars": 18578,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T14:37:58Z",
-                "open_issues": 491,
+                "open_issues": 493,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9553,
+                "stars": 9566,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:46:44.794Z",
+    "last_updated": "2026-10-14T10:18:51.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
