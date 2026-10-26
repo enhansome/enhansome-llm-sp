@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 486,
+                "open_issues": 488,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27449,
+                "stars": 27451,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -39,7 +39,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 267,
+                "open_issues": 268,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
                 "stars": 1714,
@@ -126,11 +126,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T09:24:42Z",
-                "open_issues": 387,
+                "last_commit": "2026-10-26T10:46:45Z",
+                "open_issues": 391,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18613,
+                "stars": 18618,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T14:24:38Z",
-                "open_issues": 512,
+                "open_issues": 513,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9692,
+                "stars": 9706,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:54:02.800Z",
+    "last_updated": "2026-10-26T11:14:46.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
@@ -232,7 +232,7 @@
       "open_issues": 4,
       "owner": "chawins",
       "repo": "llm-sp",
-      "stars": 585,
+      "stars": 586,
       "topics": [
         "adversarial-machine-learning",
         "awesome-list",
