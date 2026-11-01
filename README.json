@@ -21,7 +21,7 @@
                 "open_issues": 491,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27465,
+                "stars": 27467,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -39,10 +39,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 280,
+                "open_issues": 281,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1715,
+                "stars": 1717,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -127,10 +127,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T03:58:24Z",
-                "open_issues": 384,
+                "open_issues": 385,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18663,
+                "stars": 18669,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T18:16:24Z",
-                "open_issues": 526,
+                "open_issues": 528,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9810,
+                "stars": 9818,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:58:16.348Z",
+    "last_updated": "2026-11-01T11:53:50.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
