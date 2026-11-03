@@ -2310,18 +2310,18 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Resource Compilation
 
-* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,473 | 🐛 494 | 📅 2025-07-31: Huge compilation of LLM papers and software.
-* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,718 | 🐛 282 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
+* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,474 | 🐛 496 | 📅 2025-07-31: Huge compilation of LLM papers and software.
+* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,719 | 🐛 282 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
 * <https://github.com/ethz-spylab/rlhf_trojan_competition> ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2024-06-13: Competition track at SaTML 2024.
-* <https://github.com/briland/LLM-security-and-privacy> ⭐ 54 | 🐛 3 | 🌐 TeX | 📅 2024-10-15
+* <https://github.com/briland/LLM-security-and-privacy> ⭐ 55 | 🐛 3 | 🌐 TeX | 📅 2024-10-15
 * <https://llmsecurity.net/>: LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
 * <https://surrealyz.github.io/classes/llmsec/llmsec.html>: CMSC818I: Advanced Topics in Computer Systems; Large Language Models, Security, and Privacy (UMD) by Prof. Yizheng Chen.
 * <https://www.jailbreakchat.com/>: Crowd-sourced jailbreaks.
 
 ### Open-Source Projects
 
-* <https://github.com/NVIDIA/NeMo> ⭐ 18,680 | 🐛 388 | 🌐 Python | 📅 2026-11-02: NeMo: a toolkit for conversational AI.
-* <https://github.com/leondz/garak> ⭐ 9,831 | 🐛 539 | 🌐 Python | 📅 2026-10-27: LLM vulnerability scanner.
+* <https://github.com/NVIDIA/NeMo> ⭐ 18,688 | 🐛 392 | 🌐 Python | 📅 2026-11-03: NeMo: a toolkit for conversational AI.
+* <https://github.com/leondz/garak> ⭐ 9,843 | 🐛 542 | 🌐 Python | 📅 2026-11-02: LLM vulnerability scanner.
 * <https://github.com/LostOxygen/llm-confidentiality> ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-04-20: Framework for evaluating LLM confidentiality
 * <https://github.com/fiddler-labs/fiddler-auditor>: Fiddler Auditor is a tool to evaluate language models.
 
@@ -2368,4 +2368,4 @@ These three topics are closely related so sometimes it is hard to clearly catego
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
