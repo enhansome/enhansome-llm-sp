@@ -39,7 +39,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-08-20T01:27:47Z",
-                "open_issues": 298,
+                "open_issues": 303,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
                 "stars": 1721,
@@ -126,11 +126,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T13:01:02Z",
-                "open_issues": 454,
+                "last_commit": "2026-11-14T01:43:57Z",
+                "open_issues": 468,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18745,
+                "stars": 18749,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -159,10 +159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T23:26:29Z",
-                "open_issues": 578,
+                "open_issues": 581,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 10012,
+                "stars": 10017,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:13:10.418Z",
+    "last_updated": "2026-11-14T12:17:09.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
