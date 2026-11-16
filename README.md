@@ -2310,8 +2310,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Resource Compilation
 
-* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,496 | 🐛 504 | 📅 2025-07-31: Huge compilation of LLM papers and software.
-* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,722 | 🐛 305 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
+* <https://github.com/Hannibal046/Awesome-LLM/> ⭐ 27,501 | 🐛 505 | 📅 2025-07-31: Huge compilation of LLM papers and software.
+* <https://github.com/corca-ai/awesome-llm-security> ⭐ 1,722 | 🐛 304 | 📅 2025-08-20: A curation of awesome tools, documents and projects about LLM Security.
 * <https://github.com/ethz-spylab/rlhf_trojan_competition> ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2024-06-13: Competition track at SaTML 2024.
 * <https://github.com/briland/LLM-security-and-privacy> ⭐ 55 | 🐛 3 | 🌐 TeX | 📅 2024-10-15
 * <https://llmsecurity.net/>: LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
@@ -2320,8 +2320,8 @@ Automatically find cases where a target LM behaves in a harmful way, by generati
 
 ### Open-Source Projects
 
-* <https://github.com/NVIDIA/NeMo> ⭐ 18,753 | 🐛 468 | 🌐 Python | 📅 2026-11-15: NeMo: a toolkit for conversational AI.
-* <https://github.com/leondz/garak> ⭐ 10,034 | 🐛 583 | 🌐 Python | 📅 2026-11-06: LLM vulnerability scanner.
+* <https://github.com/NVIDIA/NeMo> ⭐ 18,759 | 🐛 470 | 🌐 Python | 📅 2026-11-16: NeMo: a toolkit for conversational AI.
+* <https://github.com/leondz/garak> ⭐ 10,048 | 🐛 584 | 🌐 Python | 📅 2026-11-06: LLM vulnerability scanner.
 * <https://github.com/LostOxygen/llm-confidentiality> ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-04-20: Framework for evaluating LLM confidentiality
 * <https://github.com/fiddler-labs/fiddler-auditor>: Fiddler Auditor is a tool to evaluate language models.
 
@@ -2368,4 +2368,4 @@ These three topics are closely related so sometimes it is hard to clearly catego
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
