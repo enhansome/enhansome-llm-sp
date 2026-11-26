@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 513,
+                "open_issues": 515,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27514,
+                "stars": 27520,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:47.696Z"
@@ -42,7 +42,7 @@
                 "open_issues": 317,
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1724,
+                "stars": 1725,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -126,11 +126,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T15:38:00Z",
-                "open_issues": 453,
+                "last_commit": "2026-11-26T13:25:49Z",
+                "open_issues": 443,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18788,
+                "stars": 18794,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -158,11 +158,11 @@
                 "id": 639097338,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T20:48:46Z",
-                "open_issues": 619,
+                "last_commit": "2026-11-25T22:27:39Z",
+                "open_issues": 618,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 10177,
+                "stars": 10195,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -189,7 +189,7 @@
                 "open_issues": 0,
                 "owner": "LostOxygen",
                 "repo": "llm-confidentiality",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "chatgpt",
                   "confidentiality",
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:45:16.779Z",
+    "last_updated": "2026-11-26T15:26:59.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers and resources related to the security and privacy of LLMs 🤖",
